@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-###[Medical Calculator Download Signed Release Version](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-release.apk)
+###[Medical Calculator Download Signed Release Version (V2)](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-release.apk)
 
 ###[Medical Calculator Download Debug Version](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-debug.apk)
 
