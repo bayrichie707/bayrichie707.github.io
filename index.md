@@ -1,43 +1,17 @@
-## Welcome to GitHub Pages
-# BLOOD THIS THE SHIT THAT MAKES THAT MONEY SO I DONT HAVE TO WORK!!!!! GET THIS SHIT!!!
+# The Future Is Here!  
 
+## Android Creations
+### Download The Crypto App to Learn About Bitcoin and More!
+- [Cryptocurrencies: The Newest Innovation](url)
+### List of Random Useful Android Apps
+- [Paint Calculator Download Signed Release Version (V1)](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-release(V10).apk)
+- [Medical Calculator Download Signed Release Version (V1)](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-release.apk)
 
-###[Paint Calculator Download Signed Release Version (V1)](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-release(V10).apk)
-
-###[Medical Calculator Download Signed Release Version (V1)](https://github.com/bayrichie707/bayrichie707.github.io/blob/master/app-release.apk)
-
-You can use the [editor on GitHub](https://github.com/bayrichie707/bayrichie707.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+#### Donations Appreciated:
+Where to Send Bitcoin?
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Address: (_12n1RQu69NB5VkYdFnsHPTUpS4EeqxwKhw_)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bayrichie707/bayrichie707.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Music & Visual Creations
